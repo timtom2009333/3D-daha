@@ -1,0 +1,11 @@
+.maps {
+ width: 1416px;
+ height: 664px;
+}
+.cont {
+width:=1416;
+margin: 0px auto;
+}
+body {
+min-width=1416;
+}
